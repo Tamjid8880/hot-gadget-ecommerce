@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+}
+
+.buy-now {
+    background-image: linear-gradient(to bottom, black 0%, black 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+div.card {
+    border: solid white;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 15px;
+}
+
+.container {
+    margin-bottom: 70px;
+}
+
+.categories {
+    text-align: center;
+}
+
+.categories h3 {
+    border-bottom: 6px solid orange;
+    width: fit-content 50%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.border-image {
+    /* Border color */
+    box-shadow: 3px gray;
+    border-radius: 20px;
+    /* Border radius for rounded corners */
+    padding: 50px;
+    /* Padding inside the border */
+    max-width: 140%;
+    /* Ensure images don't exceed the width of their container */
+    height: auto;
+    /* Maintain aspect ratio */
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.1);
+}
+
+.cat2 img {
+    margin-bottom: 30px;
+}
+
+.phone {
+    text-align: center;
+}
+
+.laptop {
+    text-align: center;
+}
+
+.card-footer {
+    border: none !important;
+    /* Remove border */
+    color: white;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.container p {
+    font-size: medium;
+    margin-bottom: 30px;
+}
+
+.navbar {
+    background-image: none;
+    font-size: large
+}
+
+.ca1 {
+    color: orange;
+}
+
+.phone h3 {
+    font-weight: bold;
+}
+
+.laptop h3 {
+    font-weight: bold;
+}
